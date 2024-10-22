@@ -1,0 +1,36 @@
+{
+  "pictures": [
+    "https://images.pexels.com/photos/736230/pexels-photo-736230.jpeg?cs=srgb&dl=pexels-jonaskakaroto-736230.jpg&fm=jpg",
+    "https://images.pexels.com/photos/1072824/pexels-photo-1072824.jpeg?cs=srgb&dl=pexels-akilmazumder-1072824.jpg&fm=jpg",
+    "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?cs=srgb&dl=pexels-pixabay-56866.jpg&fm=jpg",
+    "https://images.pexels.com/photos/10109786/pexels-photo-10109786.jpeg?cs=srgb&dl=pexels-israelpinapol-10109786.jpg&fm=jpg",
+    "https://images.pexels.com/photos/85773/pexels-photo-85773.jpeg?cs=srgb&dl=pexels-unchalee-srirugsar-14114-85773.jpg&fm=jpg",
+    "https://images.pexels.com/photos/46216/sunflower-flowers-bright-yellow-46216.jpeg",
+    "https://images.pexels.com/photos/28604494/pexels-photo-28604494.jpeg?cs=srgb&dl=pexels-lichtblick800-28604494.jpg&fm=jpg",
+    "https://images.pexels.com/photos/35196/water-plant-green-fine-layers.jpg?cs=srgb&dl=pexels-pixabay-35196.jpg&fm=jpg",
+    "https://images.pexels.com/photos/1054016/pexels-photo-1054016.jpeg"
+  ],
+  "initialPlants": [
+    {
+      "name": "Eugene",
+      "price": 10,
+      "picture": 0,
+      "growth": 0,
+      "maxGrowth": 6
+    },
+    {
+      "name": "Eugene's son",
+      "price": 16,
+      "picture": 2,
+      "growth": 0,
+      "maxGrowth": 9
+    },
+    {
+      "name": "Eugene's brother",
+      "price": 20,
+      "picture": 3,
+      "growth": 0,
+      "maxGrowth": 12
+    }
+  ]
+}
